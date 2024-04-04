@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Margarita, an aspiring Data Scientist 👩‍💻
+I'm Margarita, an aspiring Data Scientist 👩‍💻✨
   
 
 <br/>  
@@ -16,18 +16,6 @@
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -36,10 +24,6 @@
 </a>  
 </div>  
   
-
-<br/>  
-
-
 
 <!--
 **iammmmargo/iammmmargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
