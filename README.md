@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Margarita, an aspiring Data Scientist 👩‍💻✨
+My name is Margarita. I am a data scientist. 👩‍💻✨
   
 
 <!--
