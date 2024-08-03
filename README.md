@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-My name is Margarita. I am a data scientist. 👩‍💻✨
   
 
 <!--
